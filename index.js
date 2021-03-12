@@ -1,3 +1,6 @@
+// Copyright (c) by Philip
+// Licensed under the MIT License.
+
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 const { prefix, token, cookie, color } = require('./config.json'); // Get your token, prefix and cookie from here..
