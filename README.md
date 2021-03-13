@@ -1,5 +1,5 @@
 <h1 align="center">🤖 RoRank</h1>
-<p align="center"><i>RoRank Discord Bot - oblox group holder/ranker, recommended for games with teams and ranks. Auto rank people in your Roblox group with one comman.</i></p>
+<p align="center"><i>RoRank Discord Bot - Roblox group holder/ranker, recommended for games with teams and ranks. Auto rank people in your Roblox group with one command.</i></p>
 <div align="center">
   <a href="https://github.com/by-Philip/RoRank/stargazers"><img src="https://img.shields.io/github/stars/by-Philip/RoRank" alt="Stars Badge"/></a>
 <a href="https://github.com/by-Philip/RoRank/network/members"><img src="https://img.shields.io/github/forks/by-Philip/RoRank" alt="Forks Badge"/></a>
@@ -10,21 +10,16 @@
 <br>
 
 ## 📄 Changelog
-  - Leaderboard
   - Database
-  - Bonus command
   - Major bug fixes
-  - Welcome channel
-  - Welcome message (in welcome channel)
-  - Auto logger (in server)
-  - Auto logger (in database)
+  - Easy config setup
+  - Logging (in server & group)
 Read full changelog [here](https://github.com/by-Philip/RoRank/main/CHANGELOG.md)
 
 ## 🔭 Upcomming
   - Major bug fixes
   - Reorganization
-  - Better responses
-  - Faster responses
+  - Group discription command fix [BUG 🐞]
 
 Later: <br>• Funny commands<br>• Moderation commands
 
