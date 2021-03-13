@@ -18,7 +18,7 @@ Read the setup page [here](#) (NOT ONLINE).
   - Major bug fixes
   - Easy config setup
   - Logging (in server & group)<br>
-  - 
+  
 Read full changelog [here](https://github.com/by-Philip/RoRank/main/CHANGELOG.md)
 
 ## 🔭 Upcomming
