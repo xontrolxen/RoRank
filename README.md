@@ -10,7 +10,7 @@
 <br>
 
 ## ⚙️ Setup
-Do you need help with the setup or instalization of the bot? Add the moment we are making a instruction page. You can [contact](:telephone:-contact) us in the meantime.
+Do you need help with the setup or instalization of the bot? Add the moment we are making a instruction page. You can [contact](contact) us in the meantime.
 Read the setup page [here](#)
 
 ## 📄 Changelog
