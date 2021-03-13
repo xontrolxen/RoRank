@@ -1,2 +1,47 @@
-# RoRank
-🤖 RoRank・Discord Bot - Roblox group holder/ranker, recommended for games with teams and ranks. Auto rank people in your Roblox group with one command - 🪴 Open source project | © by Philip 2021
+<h1 align="center">🤖 RoRank</h1>
+<p align="center"><i>RoRank Discord Bot - oblox group holder/ranker, recommended for games with teams and ranks. Auto rank people in your Roblox group with one comman.</i></p>
+<div align="center">
+  <a href="https://github.com/by-Philip/RoRank/stargazers"><img src="https://img.shields.io/github/stars/by-Philip/RoRank" alt="Stars Badge"/></a>
+<a href="https://github.com/by-Philip/RoRank/network/members"><img src="https://img.shields.io/github/forks/by-Philip/RoRank" alt="Forks Badge"/></a>
+<a href="https://github.com/by-Philip/RoRank/pulls"><img src="https://img.shields.io/github/issues-pr/by-Philip/RoRank" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/by-Philip/RoRank/issues"><img src="https://img.shields.io/github/issues/by-Philip/RoRank" alt="Issues Badge"/></a>
+<a href="https://github.com/by-Philip/RoRank/blob/master/LICENSE"><img src="https://img.shields.io/github/license/by-Philip/RoRank" alt="License Badge"/></a>
+</div>
+<br>
+
+## 📄 Changelog
+  - Leaderboard
+  - Database
+  - Bonus command
+  - Major bug fixes
+  - Welcome channel
+  - Welcome message (in welcome channel)
+  - Auto logger (in server)
+  - Auto logger (in database)
+Read full changelog [here](https://github.com/by-Philip/RoRank/main/CHANGELOG.md)
+
+## 🔭 Upcomming
+  - Major bug fixes
+  - Reorganization
+  - Better responses
+  - Faster responses
+
+Later: <br>• Funny commands<br>• Moderation commands
+
+## 💻 Contribution
+Contributions are always welcome! Please create a Pull Request to add your request or sugestion.
+
+## 🚀 Show your support
+Give a ⭐️ if this open source project helped you! And share this with your community, so we can grow and make more projects like this.
+
+## ☎️ Contact
+Do you have any questions, suggestions or founded bugs? Please report this by contacting us or by starting a discussion. We are also always open to possible cooperation.
+
+✉️ [Mail](mailto:contact@byphilip.ga)\
+🐦 [Twitter](https://twitter.com/byPhilip_Inc)
+
+## :pencil: License & Copyright
+This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+
+🪴 Open source project\
+© by Philip 2021
