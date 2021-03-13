@@ -10,7 +10,7 @@
 <br>
 
 ## ⚙️ Setup
-Do you need help with the setup or instalization of the bot? Add the moment we are making a instruction page. You can [contact](☎️-contact) us in the meantime.
+Do you need help with the setup or instalization of the bot? Add the moment we are making a instruction page. You can [contact](:telephone:-contact) us in the meantime.
 Read the setup page [here](#)
 
 ## 📄 Changelog
@@ -33,7 +33,7 @@ Contributions are always welcome! Please create a Pull Request to add your reque
 ## 🚀 Show your support
 Give a ⭐️ if this open source project helped you! And share this with your community, so we can grow and make more projects like this.
 
-## ☎️ Contact
+## :telephone: Contact
 Do you have any questions, suggestions or founded bugs? Please report this by contacting us or by starting a discussion. We are also always open to possible cooperation.
 
 ✉️ [Mail](mailto:contact@byphilip.ga)\
