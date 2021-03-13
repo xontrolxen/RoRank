@@ -35,7 +35,8 @@ Give a ⭐️ if this open source project helped you! And share this with your c
 
 <h2 id="contact">☎️ Contact</h2>
 Do you have any questions, suggestions or founded bugs? Please report this by contacting us or by starting a discussion. We are also always open to possible cooperation.
-\
+
+
 ✉️ [Mail](mailto:contact@byphilip.ga)\
 🐦 [Twitter](https://twitter.com/byPhilip_Inc)
 
