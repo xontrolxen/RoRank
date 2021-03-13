@@ -35,8 +35,8 @@ Contributions are always welcome! Please create a Pull Request to add your reque
 Give a ⭐️ if this open source project helped you! And share this with your community, so we can grow and make more projects like this.
 
 <h2 id="contact">☎️ Contact</h2>
-## ☎️ Contact
 Do you have any questions, suggestions or founded bugs? Please report this by contacting us or by starting a discussion. We are also always open to possible cooperation.
+<br>
 
 ✉️ [Mail](mailto:contact@byphilip.ga)\
 🐦 [Twitter](https://twitter.com/byPhilip_Inc)
