@@ -9,6 +9,10 @@
 </div>
 <br>
 
+## ⚙️ Setup
+Do you need help with the setup or instalization of the bot? Add the moment we are making a instruction page. You can [contact](☎️-contact) us in the meantime.
+Read the setup page [here](#)
+
 ## 📄 Changelog
   - Database
   - Major bug fixes
@@ -35,7 +39,7 @@ Do you have any questions, suggestions or founded bugs? Please report this by co
 ✉️ [Mail](mailto:contact@byphilip.ga)\
 🐦 [Twitter](https://twitter.com/byPhilip_Inc)
 
-## :pencil: License & Copyright
+## ⚖️ License & Copyright
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
 
 🪴 Open source project\
