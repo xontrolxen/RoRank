@@ -11,7 +11,7 @@
 
 ## ⚙️ Setup
 Do you need help with the setup or instalization of the bot? Add the moment we are making a instruction page. You can [contact](#contact) us in the meantime.
-Read the setup page [here](#)(NOT ONLINE).
+Read the setup page [here](#) (NOT ONLINE).
 
 ## 📄 Changelog
   - Database
