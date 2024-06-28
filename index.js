@@ -5,7 +5,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const { prefix, token, cookie, color } = require('./config.json'); // Get your token, prefix and cookie from here..
  const nblx = require("noblox.js"); // The module of roblox..
-var groupId = 7445909 // Your group id
+var groupId = 34269583 // Your group id
 
 // To change the permissions go to line 30, 56, 99 ,127, 155, 176
 
